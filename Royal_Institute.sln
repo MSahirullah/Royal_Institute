@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Royal_Institute", "Royal_Institute.csproj", "{91FB0D8F-647C-4C09-99AD-0ECEFFA1DCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FB0D8F-647C-4C09-99AD-0ECEFFA1DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FB0D8F-647C-4C09-99AD-0ECEFFA1DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FB0D8F-647C-4C09-99AD-0ECEFFA1DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FB0D8F-647C-4C09-99AD-0ECEFFA1DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18892A64-4695-4F7A-AF9F-A71F7CD36336}
+	EndGlobalSection
+EndGlobal
